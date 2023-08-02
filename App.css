@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://www.sagatraining.ca/wp-content/uploads/2018/10/background-images-for-login-form-8.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Sofia", sans-serif;
+}
+h1{
+    color: rgb(61, 230, 9);
+    margin-bottom: 10%;
+    text-align: center;
+    margin-top:10px;
+    
+}
+.Div1{
+    margin-top:10%;
+    margin-left:25%;
+    margin-bottom: 30%;
+    width: 400px;
+     padding: 10px;
+     border: 10px solid rgb(205, 158, 4);    
+}
+input{
+    width: 300px;
+    height: 80px;
+    margin-left:5%;
+    color: brown;
+    font-size: xx-large;
+    background-color: rgb(65, 133, 142);
+}
+button {
+    margin-left: 6%;
+    width:15%;
+}
+#btn{ margin-left: 30%;
+    width:30%;
+
+}
